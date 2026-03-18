@@ -1,5 +1,55 @@
-## Hi there 👋
+# Hi, I'm Enrico Perocco 👋
 
+Systems and Data Engineer with a background in Mechanical Engineering and Industry 4.0.
+
+I specialize in connecting **physical engineering systems with data and analytics**, building pipelines and insights from industrial and operational datasets.
+
+## 🔎 Areas of Interest
+
+- Data Engineering
+- Industrial Data Analytics
+- Manufacturing & Industry 4.0
+- AI-driven engineering workflows
+
+## 🛠 Tech Stack
+
+Python  
+SQL  
+Databricks  
+Power BI  
+Pandas  
+NumPy  
+Scikit-learn  
+
+## 📊 Featured Projects
+
+🔹 **ETL Industrial Data Pipeline**  
+ETL pipeline for processing manufacturing datasets using Python and SQL.
+
+🔹 **Manufacturing Data Analytics**  
+Exploratory data analysis of production and operational data.
+
+🔹 **Industrial Anomaly Detection**  
+Detecting abnormal patterns in industrial datasets for predictive maintenance.
+
+## 🎓 Background
+
+- MSc Mechanical Engineering  
+- MBA Data Science
+- Graduate in Industrial & Mechanical Engineering
+
+## 🌍 Open to
+
+Remote and international opportunities in:
+
+- Data Engineering
+- Analytics Engineering
+- Industrial Data & AI
+
+## 📫 Contact
+
+LinkedIn  
+https://www.linkedin.com/in/enrico-perocco
 <!--
 **enricoperocco/EnricoPerocco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
