@@ -53,6 +53,8 @@ https://www.linkedin.com/in/enrico-perocco
 
 ## 🛠 Tech Stack
 
+Python • SQL • Databricks • Power BI • Pandas • NumPy • Git
+
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
