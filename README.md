@@ -55,8 +55,6 @@ https://www.linkedin.com/in/enrico-perocco
 
 Python • SQL • Databricks • Power BI • Pandas • NumPy • Git
 
-## 🛠 Tech Stack
-
 <p align="left">
 
 <!-- Python -->
